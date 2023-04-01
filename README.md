@@ -1,5 +1,5 @@
 # Read_SMS_SIM800L_ESP32
-Getting started with SIM800L and ESP32 by read received message `hello world`.
+Getting started with SIM800L and ESP32 by reading message has been received.
 
 ## Wiring Diagram
 ### SIM800L
