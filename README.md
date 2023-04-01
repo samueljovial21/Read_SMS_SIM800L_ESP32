@@ -6,12 +6,12 @@ Getting started with SIM800L and ESP32 by reading message has been received.
 * VCC : Direct to + of 18650 Battery <br/>
 * RX  : D2 Pin of ESP32 <br/>
 * TX  : D4 Pin of ESP32 <br/>
-* GND : GND Pin of ESP32 AND Direct to - of 18650 battery. <br/>
+* GND : GND Pin of ESP32 AND Direct to "-" of 18650 battery. <br/>
 
 ### 18650 Battery
 This battery output voltage range is 3.7 to 4.2. (Commonly stable at 4.0V)
-* + : Direct to SIM800L VCC <br/>
-* - : GND Pin of ESP32 AND Direct to GND Pin of SIM800L. <br/>
+* "+" : Direct to SIM800L VCC <br/>
+* "-" : GND Pin of ESP32 AND Direct to GND Pin of SIM800L. <br/>
 <img src="./ESP32_SIM800L_WIRING.png">
 
 ## Notes
