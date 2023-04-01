@@ -5,8 +5,8 @@
 
 #include <SoftwareSerial.h>
 
-#define rxPin 4
-#define txPin 2
+#define txPin 4
+#define rxPin 2
 HardwareSerial sim800(1);
 
 String messages;
